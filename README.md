@@ -15,6 +15,7 @@ Para ver mais iformações sobre a matéria veja o documento:
 - [Lab 01](lab01/)
 - [Lab 02](lab02/)
 - [Lab 03](lab03/)
+- [Lab 04](lab04/)
 
 ---
 
